@@ -25,7 +25,7 @@ SECRET_KEY = '$1o!f5&#30(sq!ak-j7i*a7+-54id_fe2domc^h&d&i0cb$s6$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', 'smartkuma.iptime.org','192.168.0.3']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', '.smartkuma.iptime.org','192.168.0.3']
 
 
 # Application definition
